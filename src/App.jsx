@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import ReactMarkdown from "react-markdown"
+import ReactMarkdown from 'react-markdown';
 import remarkBreaks from 'remark-breaks';
 const defaultMarkdownText = `# Welcome to My Markdown Previewer (H1 Header)
 
